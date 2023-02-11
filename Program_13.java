@@ -10,7 +10,7 @@ class Program_13
     {
         boolean flag = false;
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter a number below:");
+        System.out.println("Enter a name below:");
         String input = sc.next();
         int low = 0, high = 9, mid = 0;
         String a[] = {"Arya", "Bill", "Caroline", "Dhruv", "Ekagra", "Farhan", "Gautam", "Henry", "Isaac", "Jeff"};
