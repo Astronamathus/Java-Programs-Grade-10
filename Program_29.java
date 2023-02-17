@@ -11,7 +11,7 @@ class Program_29
         Scanner sc = new Scanner(System.in);
         int i, j;
         String a[][] = new String[3][3];
-        System.out.println("Enter "+9+" names below:");
+        System.out.println("Enter 9 names below:");
         for(i = 0; i < 3; i++)
         {
             for(j = 0; j < 3; j++)
