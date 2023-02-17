@@ -3,7 +3,6 @@
 //13.2.23
 //Suday Dutta
 //Greenwood High
-import java.util.Scanner;
 class Program_22
 {
     public static void main()
