@@ -1,4 +1,4 @@
-//Program_19
+//Program_20
 /*Program to enter 10 countries and their capitals into 2 single-dimensinal arrays. Enter the value of a country and print its corresponding capital*/
 //13.2.23
 //Suday Dutta
