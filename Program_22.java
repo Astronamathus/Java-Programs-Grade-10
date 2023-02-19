@@ -1,5 +1,5 @@
 //Program_22
-/*Program to initialise 9 numbers into a 2D array and print it in reverse order in a matrix format*/
+/*Program to initialise 9 characters into a 2D array and print it in reverse order in a matrix format*/
 //13.2.23
 //Suday Dutta
 //Greenwood High
