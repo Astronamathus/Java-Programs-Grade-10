@@ -9,12 +9,12 @@ class Program_24
     public static void main()
     {
         Scanner sc = new Scanner(System.in);
-        int a[][] = new int[3][3];
         int i, j;
         System.out.println("Enter the number of rows below:");
         int n = sc.nextInt();
         System.out.println("Enter the number of columns below:");
         int m = sc.nextInt();
+        int a[][] = new int[n][m];
         System.out.println("Enter "+(n*m)+" numbers below:");
         for(i = 0; i < n; i++)
         {
