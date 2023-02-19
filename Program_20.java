@@ -37,7 +37,7 @@ class Program_20
         }
         else
         {
-            System.out.println(countries[i]+" was not found in the array");
+            System.out.println(search+" was not found in the array");
         }
     }
 }
