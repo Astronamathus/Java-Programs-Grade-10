@@ -1,3 +1,2 @@
 # Java-Programs
-Use what you need, and have fun.
-Please use this only as a reference though.
+**Extensively** tested programs, to ensure _absolute_ accuracy and perfect results with **zero** errors.
