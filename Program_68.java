@@ -1,8 +1,4 @@
 //Program_68
-/*//Program68
-//31-7-23
-//Pranav Zagabattuni
-//Greenwood High International School
 /*Define a class "Telephone" having the following description:
 
 Data Members / Instance Variables:
@@ -41,7 +37,7 @@ Output:
 +------------------+------------+-------------------+
 |       abcde      |     xx     |         00        |
 +------------------+------------+-------------------+*/
-//3.8.23
+//31.7.23
 //Suday Dutta
 //Greenwood High
 import java.util.*;
